@@ -103,7 +103,7 @@ class TS3API {
     /**
      * @param {*} type type describes the type of repeat. 0 = disabled; 1 = repeat once; 2 = enabled;
      */
-    async repeatEnable(botid, type){
+    async setRepeatType(botid, type){
         return await makeHttpRequest(this.host, this.port, "/api/bot/use/" + botid + "/(/repeat/" + repeatTypes[type], this.auth)
     }
 
