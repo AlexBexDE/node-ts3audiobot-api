@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexBexDE/node-ts3audiobot-api/issues"
   },
-  "homepage": "https://github.com/AlexBexDE/node-ts3audiobot-api#readme"
+  "homepage": "https://github.com/AlexBexDE/node-ts3audiobot-api#readme",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
 }
