@@ -1,0 +1,19 @@
+{
+  "name": "ts3audiobot-api",
+  "version": "1.0.0",
+  "description": "TS3AudioBot API Client for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBexDE/node-ts3audiobot-api.git"
+  },
+  "author": "AlexBex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexBexDE/node-ts3audiobot-api/issues"
+  },
+  "homepage": "https://github.com/AlexBexDE/node-ts3audiobot-api#readme"
+}
