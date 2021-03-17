@@ -3,7 +3,7 @@ TS3AudioBot API Client for NodeJS
 
 ## Installation
 ```
-npm install node-ts3audiobot-api
+npm install ts3audiobot-api
 ```
 
 ## Basic Usage
